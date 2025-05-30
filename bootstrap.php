@@ -1,4 +1,4 @@
 <?php
 
-require "autoloader.php";
-require "error_handler.php";
+require __DIR__ . "/autoloader.php";
+require __DIR__ . "/error_handler.php";

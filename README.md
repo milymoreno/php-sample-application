@@ -1,3 +1,19 @@
+---
+title: PHP 7.1 Sample Application
+---
+
+# PHP 7.1 sample application
+
+Sample PHP applications that uses:
+* Dependency Injection
+* Apache routing
+* Composer (aka: Not reinventing the wheel)
+
+## Requirements
+
+* Unix-like operating systems
+* Apache
+
 # PHP 7.1 sample application
 
 Sample PHP applications that uses:
