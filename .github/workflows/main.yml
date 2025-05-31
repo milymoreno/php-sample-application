@@ -3,7 +3,7 @@ name: deploy-docker-lab
 on:
   push:
     branches:
-      - main
+      - master
 
 env:
   IMAGE_NAME: milydemendoza/php-sample-app-lab
